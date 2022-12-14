@@ -25,12 +25,12 @@ Hi, I'm Pedro 👋 ( ͡ᵔ ͜ʖ ͡ᵔ)
 
 
 
-Sou apaixonado por tecnologia! Conserto computadores desde os 15 anos e a 1 ano e meio iniciei na área da programação e me apaixonei de primeira!!
+Sou apaixonado por tecnologia! Conserto computadores desde os 15 anos e há 1 ano e meio iniciei na área da programação e me apaixonei de primeira!!
 
-Tenho conhecimento em:  Python, Pandas, Java, MySQL, Servidores, Redes,  HTML, CSS , Git, Linux, e Windows.
+Tenho conhecimento em:  Python, Pandas, Java, C++, C#, MySQL, Servidores, Redes,  HTML, CSS , Git, Linux, e Windows.
 
 Na maioria das vezes, estou programando em Python, que é minha linguagem favorita e me aventurando em java no meu tempo livre, essas duas linguagens são as que tenho gostado. E no momento. Minha paixão é me divertir programando, tocando violão, assistindo anime, jogando meus games, lendo livros e artigos todos os dias.
 
-Vamos tomar um café, estou sempre aberta para aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em pedrobertine32@gmail.com
+Vamos tomar um café, estou sempre aberto para aprender coisas novas e discutir ideias e projetos. Você pode entrar em contato comigo em pedrobertine32@gmail.com
 
 Esforce-se e admire o processo!
