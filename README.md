@@ -25,7 +25,7 @@ Hi, I'm Pedro 👋 ( ͡ᵔ ͜ʖ ͡ᵔ)
 
 
 
-Sou apaixonado por tecnologia! Conserto computadores desde os 15 anos e há 1 ano e meio iniciei na área da programação e me apaixonei de primeira!!
+Sou apaixonado por tecnologia! Conserto computadores desde os 15 anos e há 2 ano e meio iniciei na área da programação e me apaixonei de primeira!!
 
 Tenho conhecimento em:  Python, Pandas, Java, C++, C#, MySQL, Servidores, Redes,  HTML, CSS , Git, Linux, e Windows.
 
