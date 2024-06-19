@@ -20,11 +20,6 @@ Hi, I'm Pedro 👋 ( ͡ᵔ ͜ʖ ͡ᵔ)
   <a href="https://www.linkedin.com/in/pedro-bertine-8964782ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-<h1>Atividade</h1>
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://github.com/BertinePedro010" />  
 </p>
 
 <!-- github workflow  -->
