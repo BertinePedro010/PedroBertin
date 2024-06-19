@@ -2,6 +2,7 @@
 Hi, I'm Pedro 👋 ( ͡ᵔ ͜ʖ ͡ᵔ)
 
 
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,8 +19,18 @@ Hi, I'm Pedro 👋 ( ͡ᵔ ͜ʖ ͡ᵔ)
   <a href = "mailto:Pedrobertine32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-bertine-8964782ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+<h1>Atividade</h1>
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://github.com/BertinePedro010" />  
+</p>
+
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
